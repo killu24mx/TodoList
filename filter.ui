@@ -508,7 +508,7 @@ border-color: white</string>
    </property>
    <property name="styleSheet">
     <string notr="true">QComboBox::drop-down { width: 0px; height: 0px;  border: none; }
-QListView::item{ height: 31px; }
+QListView::item{ height: 31px; color:white; }
 QComboBox {color:white; }
 
 
